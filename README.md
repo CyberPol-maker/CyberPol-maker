@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @CyberPol-maker , pseudonym for Koko Pavel
+- 👋 Hello, I’m @CyberPol-maker !
 - 👀 I’m interested in Maths, Technologies and Finance
 - 📫 How to reach me : ***/----------/***
 - ⚡ Technologies : Python, C#
